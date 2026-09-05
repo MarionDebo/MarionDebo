@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Marion 👋
 
-<!--
-**MarionDebo/MarionDebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Product Manager building useful products with AI, data and purpose.
 
-Here are some ideas to get you started:
+> I turn complex problems into simple, valuable product experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Product Manager with 6 years of experience across B2B SaaS, mobile app, analytics and social impact.
+
+At [Toucan](https://www.toucantoco.com/), I lead a cross-functional squad of 7 people and helped launch **Toucan AI**, an AI-native analytics platform. 
+
+I care about:
+
+- Product strategy
+- Ask **why** before asking **what**.
+- AI-native and data products
+- User research and conversational UX
+- Building strong relationships between product, design and engineering
+- Turning ambitious ideas into products people actually use
+
+Before product, I worked in communication, SEO and digital marketing. This background helps me connect user needs, business goals and technology.
+
+I'm currently exploring how AI is changing the way we build products, collaborate with teams and create value.
+
+🌐 [My Portfolio](https://pm-marion.com/)  
+💼 [LinkedIn](https://www.linkedin.com/in/marion-debonnaire/)  
